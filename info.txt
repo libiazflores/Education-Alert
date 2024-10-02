@@ -1,0 +1,202 @@
+50
+26
+Mateo Vargas Morales
+H 
+VAMM970613HSRRRT011
+0
+Santiago Mendoza Vega
+H
+MEVS970217HSRNGN03
+1
+Emiliano Torres Ruiz
+H
+TORE970520HSRRIM50
+1
+Diego López Soto
+H
+LESD970112HSRPTI07
+0
+Leonardo Estrada Morales
+H
+EAML971006HSRSRN06
+0
+Javier Juárez Sánchez
+H
+JUSJ970623HSRRNV01
+0
+Daniel Pineda Rodríguez
+H
+PIRD970703HSRIDN05
+1
+Gael Ortega Martínez
+H
+OEMG970402HSRRRL00
+0
+Adrián Zamora Flores
+H
+ZAFA970611HSRMLD02
+0
+Carlos Roldán Díaz
+H
+RODC970402HSRLZR011
+0
+Andrés Cisneros Delgado
+H
+CIDA970415HSRILN09
+1
+Alonso Pantoja Guzmán
+H
+PAGA970915HSRNZL03
+0
+Salvador Valdez Escobar
+H
+VAES970511HSRLSL04
+1
+Alejandro Cárdenas Duarte
+H
+CEDA970207HSRRRL011
+1
+Iván Montes Calderón
+H
+MOCI970410HSRNLV09
+1
+Luis Ángel García Camacho
+H
+GACL970713HSRRMI09
+0
+Ricardo Mora Jiménez
+H
+MOJR970602HSRRII04
+1
+Juan Manuel Robles Ortiz
+H
+ROOJ971013HSRBRN04
+1
+Arturo Sánchez Bravo
+H
+SEBA970516HSRNRR10
+1
+Héctor Cervantes Torres
+H
+CETH970217HSRRRC09
+0
+Eduardo Salazar Mercado
+H
+SAME970820HSRLRD06
+1
+Gustavo Peralta Márquez
+H
+PEMG970411HSRRRS08
+1
+Óscar Pacheco Guzmán
+H
+PAGO970314MSRCZS02
+0
+Roberto Valdez Vázquez
+H
+VAVR970301MSRLZB011
+1
+César Flores Herrera
+H
+FOHC970320MSRLRS05
+0
+Isabella Hernández Paredes
+M
+HEPI970303MSRRRS08
+1
+Valentina Ríos Salgado
+M
+ROSV970708MSRSLL06
+0
+Camila García Jiménez
+M
+GAJC970404MSRRIM08
+0
+Sofía Ramírez Nava
+M
+RANS971013MSRMVF06
+0
+Victoria Castañeda Cruz
+M
+CACV970515MSRSRI08
+1
+Aurora Reyes Gutiérrez
+M
+REGA970617MSRYTR02
+1
+Olivia Núñez Cervantes
+M
+NECO971025MSRZRL06
+0
+Ximena Vázquez Herrera
+M
+VUHX970620MSRZRI02
+1
+Valeria Gómez Pacheco
+M
+GEPV970705MSRMCL01
+1
+Natalia Acosta Villa
+M
+AOVN971001MSRCIT01
+0
+Regina Miranda Ibarra
+M
+MIIR970615MSRIBG03
+1
+Mariana Rosales León
+M
+ROLM970601MSRSNR05
+0
+Renata Navarro Rosas
+M
+NARR970801MSRVSN06
+1
+Martina Gallegos Corona
+M
+GACM970115MSRLRR03
+1
+Danna Torres Ríos
+M
+TORD970417MSRRSN06
+1
+Ana Soto Paredes
+M
+SOPA970214MSRTRN01
+1
+Renée Torres Del Valle
+M
+TODR971004MSRRLN06
+0
+Gabriela Espinosa Silva
+M
+EISG970918MSRSIB06
+1
+Fernanda Salinas González
+M
+SAGF970205MSRLNR02
+1
+Paola Díaz Valdivia
+M
+DAVP970224MSRZLL04
+1
+Lucía Cisneros Del Río
+M
+CIDL970817MSRILC07
+1
+Raquel Mendoza Navarro
+M
+MENR970516MSRNVQ09
+0
+Karen Velázquez Hernández
+M
+VEHK970506MSRLRR09
+0
+Silvia Ríos Carmona
+M
+ROCS970319MSRSRI011 
+1
+Martha Bravo Mora
+M
+BAMM970217MSRRRR07
+1
